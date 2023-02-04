@@ -1,0 +1,11 @@
+{
+  "prefix" : "!",
+  "owner" : ["601822463000707091","","",""],
+  "clientid" : "1014159738268827678",
+  "clientsecret" : "vDyxc1_Sp8sG1fnz6FGP-Xr26REbjhom",
+  "clientcallback" : "https://cliff-delightful-ambulance.glitch.me/callback",
+  "mongoURL" : "mongodb+srv://testmongo:19071998iv@cluster0.qbugkaf.mongodb.net/?retryWrites=true&w=majority",
+  "serverID": "1041351285158461531",
+  "footer": "reak Botlist",
+  "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
